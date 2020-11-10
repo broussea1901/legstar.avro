@@ -20,10 +20,10 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <legstar.core2.version>2.0.4</legstar.core2.version>
     <avro.version>1.7.7</avro.version>
-    <hadoop.version>2.4.1</hadoop.version>
+    <hadoop.version>2.7.3</hadoop.version>
     <jaxb.version>2.2.2</jaxb.version>
     <jackson.version>1.9.13</jackson.version>
-    <compiler.version>1.6</compiler.version>
+    <compiler.version>1.8</compiler.version>
     <timestamp>${maven.build.timestamp}</timestamp>
     <maven.build.timestamp.format>yyyy-MM-dd HH:mm</maven.build.timestamp.format>
   </properties>
